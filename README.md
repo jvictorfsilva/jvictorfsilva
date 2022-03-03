@@ -16,6 +16,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/895054382276677702/949070807265599508/Character_Test_1_1.png">
+  
 </div> 
 
 ##
