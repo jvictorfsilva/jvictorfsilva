@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Victor
 
-- 🌱 Estudando Python, React e Node
+- 🌱 Estudando Python, React e NodeJS
 
 <div align="center">
   <a href="https://github.com/jvbibito12">
@@ -27,7 +27,5 @@
   <a href="https://discord.gg/3eFkdqjHAJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jvictorfsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-victor-ferreira-da-silva-b13236232" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/jvbibito12/jvbibito12/blob/output/github-contribution-grid-snake.svg)
-  
+
 </div>
