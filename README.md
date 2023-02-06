@@ -19,7 +19,7 @@
   <img align="right" alt="GIF" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/895054382276677702/949069877719740466/GithubGIF.gif">
   
 </div> 
-##
+## 
 <div>
   <a href="https://www.instagram.com/joao.victorfds/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/3eFkdqjHAJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
