@@ -3,9 +3,9 @@
 - 🌱 Estudando Python, React e Node
 
 <div align="center">
-  <a href="https://github.com/jvbibito12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvbibito12&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvbibito12&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/jvictorfsilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvictorfsilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorfsilva&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
