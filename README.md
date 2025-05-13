@@ -8,6 +8,8 @@
 
 - ❤️ I love programming in Python and creating new solutions for everyday problems
 
+- 🤖 Experienced in Machine Learning and Data Visualization with Python
+
 ###
 
 **How to reach me?**
