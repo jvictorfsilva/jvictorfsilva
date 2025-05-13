@@ -15,27 +15,27 @@
 **How to reach me?**
 
 <a href="https://www.linkedin.com/in/joao-victor-ferreira-da-silva/">
-  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="25"/></code>
+  <code><img src="./resources/linkedin-original.svg" height="25"/></code>
 </a>
 <a href="mailto:jvictorfsilva@gmail.com">
-  <code><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="18"/></code>
+  <code><img src="./resources/gmail-original.svg" height="18"/></code>
 </a>
 
 ###
 
 **Languages and Tools:**
 
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img height="25" src="./resources/javascript-original.svg"></code>
+<code><img height="25" src="./resources/typescript-original.svg"></code>
+<code><img height="25" src="./resources/react-original.svg"></code>
+<code><img height="25" src="./resources/nodejs-original.svg"></code>
+<code><img height="25" src="./resources/python-original.svg"></code>
+<code><img height="25" src="./resources/java-original.svg"></code>
+<code><img height="25" src="./resources/bash-original.svg"></code>
+<code><img height="25" src="./resources/mongodb-original.svg"></code>
+<code><img height="25" src="./resources/mysql-original.svg"></code>
+<code><img height="25" src="./resources/docker-original.svg"></code>
+<code><img height="25" src="./resources/kubernetes-original.svg"></code>
 
 | <a href="https://github.com/jvictorfsilva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jvictorfsilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jvictorfsilva"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorfsilva&layout=compact&langs_count=6&theme=github_dark" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
