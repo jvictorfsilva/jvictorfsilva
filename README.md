@@ -45,7 +45,9 @@
 <a href="https://github.com/jvictorfsilva/Slime-Disorder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvictorfsilva&repo=Slime-Disorder&theme=github_dark" />
 </a>
-
+<a href="https://github.com/jvictorfsilva/stock-control">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvictorfsilva&repo=stock-control&theme=github_dark" />
+</a>
   
   ##
   
