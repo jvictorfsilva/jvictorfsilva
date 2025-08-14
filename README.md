@@ -53,6 +53,3 @@
   ##
   
 <h4 align="center">Thanks for visiting my profile, see you next time!</h4>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/jvictorfsilva/count.svg" />
-</p>
