@@ -2,7 +2,7 @@
 
 **About me**
 
-- 💼 Full-stack Developer open to new opportunities.
+- 💼 Full-stack Developer at IBM.
 
 - 📚 Currently studying Java and exploring new JavaScript frameworks
 
