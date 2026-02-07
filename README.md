@@ -37,19 +37,6 @@
 <code><img height="25" src="./resources/docker-original.svg"></code>
 <code><img height="25" src="./resources/kubernetes-original.svg"></code>
 
-| <a href="https://github.com/jvictorfsilva"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jvictorfsilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/jvictorfsilva"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictorfsilva&layout=compact&langs_count=6&theme=github_dark" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-#### Top Repositories
-
-<a href="https://github.com/jvictorfsilva/Slime-Disorder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvictorfsilva&repo=Slime-Disorder&theme=github_dark" />
-</a>
-<a href="https://github.com/jvictorfsilva/stock-control">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jvictorfsilva&repo=stock-control&theme=github_dark" />
-</a>
-
-  
-  ##
+<hr/>
   
 <h4 align="center">Thanks for visiting my profile, see you next time!</h4>
